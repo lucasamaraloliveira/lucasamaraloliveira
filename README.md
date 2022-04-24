@@ -1,4 +1,6 @@
 ## Olá! Eu sou o Lucas Amaral
+- 👨🏻‍💻 Analista de Implantação de Sistemas Radiológicos 
+- 💻 Estudando Desenvolvimento Web Front-End focado em ReactJS
 
 <div align="center">
   <a href="https://github.com/lucasamaraloliveira">
