@@ -33,10 +33,6 @@ Estudando desenvolvimento Web com foco em **ReactJS** e entusiasta do **Vibe Cod
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasamaraloliveira&layout=compact&langs_count=7&theme=react"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/lucasamaraloliveira/lucasamaraloliveira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ### 📫 Entre em contato
